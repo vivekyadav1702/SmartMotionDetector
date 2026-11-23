@@ -98,7 +98,7 @@ When motion is detected, it:
 
 ### Real-Time Motion Detection
 
-![SmartMotionDetector Demo](docs/images/motion-demo.png)
+![SmartMotionDetector Demo](docs/images/image.png)
 
 The system detects movement through a webcam, highlights the moving region with a green bounding box, and displays motion statistics in real time.
 
